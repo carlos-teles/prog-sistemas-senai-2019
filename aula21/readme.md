@@ -1,0 +1,1 @@
+Continuação de Classes úteis
