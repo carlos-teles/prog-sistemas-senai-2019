@@ -52,3 +52,6 @@ aula22 - 31/01/2020 - 72
 
 aula23 - 03/02/2020 - 76
 
+Chuva - 05/02/2020 - Não teve aula devido a chuvas
+
+aula24 - 07/02/2020 - 80
