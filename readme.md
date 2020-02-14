@@ -1,3 +1,7 @@
+Alguns exemplos deste curso.
+
+https://github.com/carlos-teles/cursojava2019
+
 UC - 01 - Intro
 
 aula01 - 25/11/2019
